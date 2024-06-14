@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(60,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(131,25): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(133,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(146,25): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(168,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(176,46): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(176,46): warning C4244:         with
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(176,46): warning C4244:         [
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(176,46): warning C4244:             T=float
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(176,46): warning C4244:         ]
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(183,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(191,46): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(191,46): warning C4244:         with
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(191,46): warning C4244:         [
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(191,46): warning C4244:             T=float
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(191,46): warning C4244:         ]
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(198,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\main.cpp(206,25): warning C4305: '/=': truncation from 'double' to 'float'
+  Reverse Pong.vcxproj -> C:\Users\jacob\OneDrive\Desktop\Code\C++\Game Dev Stuff\Reverse Pong\Debug\Reverse Pong.exe
